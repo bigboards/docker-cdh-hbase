@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/bin/hbase --config /etc/hadoop/conf master
+/usr/bin/hbase --config /etc/hadoop/conf master start

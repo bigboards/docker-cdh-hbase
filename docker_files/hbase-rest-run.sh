@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/bin/hbase --config /etc/hadoop/conf rest
+/usr/bin/hbase --config /etc/hadoop/conf rest start
